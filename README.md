@@ -1,2 +1,2 @@
 # pipex
-C implementation of unix pipe system
+C implementation of UNIX pipe system.
